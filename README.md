@@ -1,1 +1,1 @@
-# big-box
+# big-box of small things.  What the bleep are you supposed to put in the readme?  I am working on one of many game apps for desktop using C# for playing state Lotteries.  Yeah, I know, there are a ptheora of sites devoted to this subject, but I wanted to exercise my brain.  I'm doing Texas at present and will use that as a template to do the other states.  Maybe I can afford a Mac and start work on iOS SDK for their games store.
